@@ -1,0 +1,6 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/anecdotes/node_modules
+/course_info/node_modules
+/unicafe/node_modules
